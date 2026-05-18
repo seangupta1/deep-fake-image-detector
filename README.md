@@ -1,4 +1,4 @@
-# Deep Fake Detector
+# Deep Fake Image Detector
 
 A deep learning project that detects whether a facial image is **real or AI-generated (deep fake)** using PyTorch, OpenCV, and Grad-CAM for model explainability.
 
